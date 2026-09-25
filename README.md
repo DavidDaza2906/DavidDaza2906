@@ -22,15 +22,12 @@ I like to work on LLM agents, AI safety and research, low-level development and 
 
 ## 🎧 What I'm working on
 
-**JamBox** — [jamboxacademy.com](https://jamboxacademy.com) — an online music academy with real
-students and real payments flowing through it. I design, build and run the platform end to end:
+**JamBox** — [jamboxacademy.com](https://jamboxacademy.com) — an online music academy with
+students and payments flowing through it. I design, build and run the platform end to end:
 product, database, billing, notifications, deploys.
 
 - 🎼 Next.js 16 (App Router) · Supabase/Postgres · Wompi payment links **and recurring charges** ·
-  Resend · web push · Playwright E2E — 53 pages, 36 migrations, dev and prod kept honest by sha.
-- 🧾 Everything a paid product needs and demos never show: trials, subscription state, group theory
-  sessions, didactic resources, a per-student subscribable calendar that publishes cancellations
-  **as cancellations**, and notices written in each person's language.
+  Resend · web push · Playwright E2E.
 - 🔒 Source is private (client product, JAMBOX ACADEMY S.A.S.); the product itself is public.
 
 Alongside that:
@@ -74,19 +71,6 @@ Alongside that:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## Before this
-
-**Database responsible — Instituto Nacional de Salud** (2024): data governance and quality control
-models, validation of large datasets, SQL query optimisation, automation of recurring reports.
-Before that, freelance data analysis since 2023 — cleaning and filtering multi-million-row
-databases so people could actually search them.
-
-## How I try to work
-
-- Preregister the analysis, then report the confidence interval — including the unflattering one.
-- Automate the check, not the conclusion: the run loop writes a hash-chained log and the
-  aggregator independently recomputes what the run claims.
-- Say what a number is a bound for. "Upper bound" belongs in the sentence, not in a footnote.
 
 <div align="center">
 
